@@ -11,15 +11,15 @@ ___
 ## Compétences Techniques
 
 - **FRONT-END**
-    - html 5
-    - css 3
-    - javascript
-    - GIT et github
-    - bootstrap 
-    - tailwind
-    - ajax
-    - jquery 
-    - react
+    - Html 5
+    - Css 3
+    - Javascript
+    - GIT et Github
+    - Bootstrap 
+    - Tailwind
+    - Ajax
+    - Jquery 
+    - React
   
 - **BACK-END**
     - PHP
@@ -34,16 +34,16 @@ ___
 ## formations
 
 2022 - 2023 
-**centre solidaire digital - solicode - tanger** 
-mode bootcamp - développement web
+**Centre Solidaire Digital - Solicode - Tanger** 
+Mode Bootcamp - Développement Web
 
 2022 - 2023 
-**centre solidaire digital - simplonline** 
-mode bootcamp - développement web
+**Centre Solidaire Digital - Simplonline** 
+Mode Bootcamp - Développement Web
 
 2021 - 2022 
-**Lycée mhdi al mnjra, tanger** 
-baccalauréat : science physique 
+**Lycée Mhdi Al Mnjra, Tanger** 
+Baccalauréat : Science Physique 
 
 ___
 
@@ -53,15 +53,15 @@ ___
 
 | Noms                  | Contacts                                  |
 | --------------------- | ----------------------------------------- |
-| numéro de téléphone   | 0626156115                                |
-| email                 | sarsri.imrane@gmail.com                   |
-| adresse               | hay bir jdid gznaya tanger                |
+| Numéro de téléphone   | 0626156115                                |
+| Email                 | sarsri.imrane@gmail.com                   |
+| Adresse               | hay bir jdid gznaya tanger                |
 | Date de naissance     | 2004 / 04 / 01                            |
-| github                | [lien github](github.com/imranesarsri )   |
-| linkedin              | Imrane Sarsri                             |
+| Github                | [lien github](github.com/imranesarsri )   |
+| Linkedin              | Imrane Sarsri                             |
 ___
 
-## centresd'intérêt
+## Centresd'intérêt
 
 - [x] Programmation
 - [x] Lecture
@@ -72,6 +72,6 @@ ___
 
 ## Langues
 
-- **arabe** : maternelle
-- **Français** : niveau scolaire 
-- **Anglais** : notion de base
+- **Arabe** : Maternelle
+- **Français** : Niveau scolaire 
+- **Anglais** : Notion de base
