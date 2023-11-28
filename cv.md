@@ -1,6 +1,6 @@
 
-# Imrane Sarsri
-## Développeur web full stack
+# imrane sarsri
+## développeur web full stack
 
 ![image logo](https://lh3.googleusercontent.com/a/ACg8ocIaSVBszK3h447xfGqNg8DLcRN3iuKx8V0F-hKID5iNGQ=s360-c-no)
 
@@ -8,9 +8,9 @@
 
 ___
 
-## Compétences Techniques
+## compétences techniques
 
-- **FRONT-END**
+- **front-end**
     - html 5
     - css 3
     - javascript
@@ -21,13 +21,10 @@ ___
     - jquery 
     - react
   
-- **BACK-END**
-    - PHP
-    - OOP
-    - SQL / MYSQL
-
-
-
+- **back-end**
+    - php
+    - oop
+    - sql / mysql
 
 ___
 
@@ -63,15 +60,15 @@ ___
 
 ## centresd'intérêt
 
-- [x] Programmation
-- [x] Lecture
-- [x] Jeux vidéo
-- [x] Sport
+- [x] programmation
+- [x] lecture
+- [x] jeux vidéo
+- [x] sport
 
 ___
 
-## Langues
+## langues
 
 - **arabe** : maternelle
-- **Français** : niveau scolaire 
-- **Anglais** : notion de base
+- **français** : niveau scolaire 
+- **anglais** : notion de base
