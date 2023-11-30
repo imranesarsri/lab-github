@@ -10,28 +10,10 @@ ___
 
 ## Compétences Techniques
 
-<<<<<<< HEAD
 - **back-end**
     - php
     - oop
     - sql / mysql
-=======
-- **Front-end**
-    - Html 5
-    - Css 3
-    - Javascript
-    - Git et Github
-    - Bootstrap 
-    - Tailwind
-    - Ajax
-    - Jquery 
-    - React
-  
-- **Back-end**
-    - Php
-    - Oop
-    - Sql / Mysql
->>>>>>> master
 
 ___
 
