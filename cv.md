@@ -1,6 +1,6 @@
 
 # Imrane Sarsri
-## Développeur [ back end]
+## Développeur [ back end ]
 
 ![image logo](https://lh3.googleusercontent.com/a/ACg8ocIaSVBszK3h447xfGqNg8DLcRN3iuKx8V0F-hKID5iNGQ=s360-c-no)
 
@@ -10,16 +10,10 @@ ___
 
 ## Compétences Techniques
 
-- **Front-end**
-    - Html 5
-    - Css 3
-    - Javascript
-    - Git et Github
-    - Bootstrap 
-    - Tailwind
-    - Ajax
-    - Jquery 
-    - React
+- **Back-end**
+    - Php
+    - Oop
+    - Sql / Mysql
 
 
 ___
