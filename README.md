@@ -67,10 +67,28 @@ Les conflits surviennent généralement dans Git lorsqu'il y a des modifications
 
 1. **Fusion automatique impossible :** Lorsque Git ne peut pas fusionner automatiquement les modifications en raison de conflits entre les versions, il signale un conflit et marque les zones problématiques dans le fichier.
 
+### utilisation de merge
 
+Lorsque vous effectuez une fusion dans VS Code et qu'il y a des conflits, VS Code utilise l'éditeur intégré pour vous aider à résoudre ces conflits. Les options que vous pourriez voir dans cet éditeur incluent généralement :
+
+![vs code interface](./mergeinterfacevscode.png)
+
+1. **Accept Current Change :**
+Cela correspond à la possibilité de conserver uniquement les modifications actuelles, celles de la branche dans laquelle vous effectuez la fusion.
+
+1. **Accept Incoming Change :**
+Cela correspond à la possibilité de conserver uniquement les modifications provenant de l'autre branche, celle que vous essayez de fusionner dans la branche actuelle.
+
+1. **Accept Both Changes :**
+Cela correspond à la possibilité de conserver les modifications des deux branches, combinant les changements conflictuels.
+
+1. **Compare Changes :**
+Cette option n'est généralement pas directement disponible dans l'éditeur de résolution de conflits de VS Code. Cependant, vous pouvez utiliser l'extension GitLens ou d'autres extensions pour obtenir une vue côte à côte des modifications dans les différentes branches.
 ___
 
 ## Références :
+
+
 
 [À propos des branches](https://docs.github.com/fr/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches)
 
