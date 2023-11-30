@@ -56,6 +56,7 @@ git branch -d cvFrondEnd
 ```
 Cette commande supprime la branche spécifiée. Assurez-vous d'être sur une autre branche avant de supprimer la branche actuelle.
 
+### Résolution de Conflits
 ___
 
 ## Références :
