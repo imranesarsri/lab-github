@@ -1,6 +1,6 @@
 
 # Imrane Sarsri
-## Développeur Web Full Stack
+## Développeur [ front end ]
 
 ![image logo](https://lh3.googleusercontent.com/a/ACg8ocIaSVBszK3h447xfGqNg8DLcRN3iuKx8V0F-hKID5iNGQ=s360-c-no)
 
