@@ -66,6 +66,12 @@ Les conflits surviennent généralement dans Git lorsqu'il y a des modifications
 
 ### utilisation de merge
 
+```
+git merge cv-frond-end
+```
+Cette commande fusionnera les modifications de la branche "cv-frontend" dans la branche actuelle.
+
+
 Lorsque vous effectuez une fusion dans VS Code et qu'il y a des conflits, VS Code utilise l'éditeur intégré pour vous aider à résoudre ces conflits. Les options que vous pourriez voir dans cet éditeur incluent généralement :
 
 ![vs code interface](./mergeinterfacevscode.png)
