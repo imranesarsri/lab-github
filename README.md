@@ -67,7 +67,6 @@ Les conflits surviennent généralement dans Git lorsqu'il y a des modifications
 
 1. **Fusion automatique impossible :** Lorsque Git ne peut pas fusionner automatiquement les modifications en raison de conflits entre les versions, il signale un conflit et marque les zones problématiques dans le fichier.
 
-
 ___
 
 ## Références :
