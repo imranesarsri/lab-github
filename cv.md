@@ -20,13 +20,6 @@ ___
     - Ajax
     - Jquery 
     - React
-  
-- **BACK-END**
-    - PHP
-    - OOP
-    - SQL / MYSQL
-
-
 
 
 ___
