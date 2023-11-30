@@ -3,10 +3,7 @@
 ## Travail a faire
 
 Dans ce projet, nous développerons un CV sur notre branche principale `(master)` GitHub, reflétant l'ensemble de nos compétences en langages de programmation. Pour une gestion efficace, nous créerons deux branches spécialisées : une axée sur les langages `front-end` et l'autre dédiée aux langages `back-end`.
-- Les branchs :
-  - master.
-  - cv-front-end.
-  - cv-back-end.
+
 
 ## Critere de validation :
 
@@ -18,7 +15,7 @@ ___
 
 ## Solution
 
-### creation des Branches :
+### 1. creation des Branches :
 
 
 ```
@@ -56,7 +53,7 @@ git branch -d cvFrondEnd
 ```
 Cette commande supprime la branche spécifiée. Assurez-vous d'être sur une autre branche avant de supprimer la branche actuelle.
 
-### Résolution de Conflits :
+### 2. Résolution de Conflits :
 
 
 Les conflits surviennent généralement dans Git lorsqu'il y a des modifications concurrentes dans le même fichier ou sur les mêmes lignes de code, entre la branche que vous essayez de fusionner et la branche dans laquelle vous fusionnez. 
@@ -67,7 +64,7 @@ Les conflits surviennent généralement dans Git lorsqu'il y a des modifications
 
 1. **Fusion automatique impossible :** Lorsque Git ne peut pas fusionner automatiquement les modifications en raison de conflits entre les versions, il signale un conflit et marque les zones problématiques dans le fichier.
 
-### utilisation de merge
+### 3. utilisation de merge
 
 Lorsque vous effectuez une fusion dans VS Code et qu'il y a des conflits, VS Code utilise l'éditeur intégré pour vous aider à résoudre ces conflits. Les options que vous pourriez voir dans cet éditeur incluent généralement :
 
