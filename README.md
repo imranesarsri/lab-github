@@ -56,6 +56,18 @@ git branch -d cvFrondEnd
 ```
 Cette commande supprime la branche spécifiée. Assurez-vous d'être sur une autre branche avant de supprimer la branche actuelle.
 
+### Résolution de Conflits :
+
+
+Les conflits surviennent généralement dans Git lorsqu'il y a des modifications concurrentes dans le même fichier ou sur les mêmes lignes de code, entre la branche que vous essayez de fusionner et la branche dans laquelle vous fusionnez. 
+
+**Comment les conflits se produisent-ils ?**
+
+1. **Changements concurrents :** Deux personnes ou plus apportent des modifications à la même partie d'un fichier dans différentes branches.
+
+1. **Fusion automatique impossible :** Lorsque Git ne peut pas fusionner automatiquement les modifications en raison de conflits entre les versions, il signale un conflit et marque les zones problématiques dans le fichier.
+
+
 ___
 
 ## Références :

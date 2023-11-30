@@ -1,6 +1,6 @@
 
 # Imrane Sarsri
-## Développeur web full stack
+## Développeur Web Full Stack
 
 ![image logo](https://lh3.googleusercontent.com/a/ACg8ocIaSVBszK3h447xfGqNg8DLcRN3iuKx8V0F-hKID5iNGQ=s360-c-no)
 
@@ -10,6 +10,21 @@ ___
 
 ## Compétences Techniques
 
+- **Front-end**
+    - Html 5
+    - Css 3
+    - Javascript
+    - Git et Github
+    - Bootstrap 
+    - Tailwind
+    - Ajax
+    - Jquery 
+    - React
+  
+- **Back-end**
+    - Php
+    - Oop
+    - Sql / Mysql
 - **FRONT-END**
     - Html 5
     - Css 3
@@ -24,19 +39,19 @@ ___
 
 ___
 
-## formations
+## Formations
 
 2022 - 2023 
-**Centre Solidaire Digital - Solicode - Tanger** 
-Mode Bootcamp - Développement Web
+**centre solidaire digital - solicode - tanger** 
+mode bootcamp - développement web
 
 2022 - 2023 
-**Centre Solidaire Digital - Simplonline** 
-Mode Bootcamp - Développement Web
+**centre solidaire digital - simplonline** 
+mode bootcamp - développement web
 
 2021 - 2022 
-**Lycée Mhdi Al Mnjra, Tanger** 
-Baccalauréat : Science Physique 
+**Lycée mhdi al mnjra, tanger** 
+baccalauréat : science physique 
 
 ___
 
@@ -63,7 +78,7 @@ ___
 
 ___
 
-## Langues
+## langues
 
 - **Arabe** : Maternelle
 - **Français** : Niveau scolaire 
