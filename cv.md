@@ -20,16 +20,6 @@ ___
     - Ajax
     - Jquery 
     - React
-- **FRONT-END**
-    - Html 5
-    - Css 3
-    - Javascript
-    - GIT et Github
-    - Bootstrap 
-    - Tailwind
-    - Ajax
-    - Jquery 
-    - React
 
 
 ___
