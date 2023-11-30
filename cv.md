@@ -10,17 +10,6 @@ ___
 
 ## compétences techniques
 
-- **front-end**
-    - html 5
-    - css 3
-    - javascript
-    - GIT et github
-    - bootstrap 
-    - tailwind
-    - ajax
-    - jquery 
-    - react
-  
 - **back-end**
     - php
     - oop
