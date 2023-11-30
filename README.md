@@ -3,10 +3,7 @@
 ## Travail a faire
 
 Dans ce projet, nous développerons un CV sur notre branche principale `(master)` GitHub, reflétant l'ensemble de nos compétences en langages de programmation. Pour une gestion efficace, nous créerons deux branches spécialisées : une axée sur les langages `front-end` et l'autre dédiée aux langages `back-end`.
-- Les branchs :
-  - master.
-  - cv-front-end.
-  - cv-back-end.
+
 
 ## Critere de validation :
 
